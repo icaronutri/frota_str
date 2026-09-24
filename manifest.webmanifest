@@ -1,0 +1,9 @@
+{
+  "name": "Controle de Viaturas AFA",
+  "short_name": "Viaturas AFA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#082b5c",
+  "description": "Checklist de saída e regresso de viaturas"
+}
