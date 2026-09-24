@@ -2,8 +2,8 @@
   'use strict';
 
   const CONFIG = window.APP_CONFIG || { mode: 'demo', apiUrl: '' };
-  const STORAGE_KEY = 'afa_frota_full_v1';
-  const SESSION_KEY = 'afa_frota_session_v1';
+  const STORAGE_KEY = 'controle_viaturas_afa_clean_v1';
+  const SESSION_KEY = 'controle_viaturas_afa_session_clean_v1';
   const seed = {
     users: [{ id:'MGR-001', name:'Gerente Demo', login:'gerente', password:'123456', role:'GERENTE', status:'ATIVO', rank:'Gerente', sector:'Gerência' }],
     vehicles: [
